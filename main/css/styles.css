@@ -1,0 +1,61 @@
+* {
+    box-sizing:border-box;
+}
+h3{
+    text-align: center;
+}
+body{
+    
+    min-height:100vh;
+    background-color: #51b2f3 !important;
+    
+}
+body, .quote-input {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container {
+    background-color: #e9e9e9;
+    padding: 1rem;
+    border-radius: .5rem;
+    width: 500px;
+    max-width: 90%;
+    max-height: 60%;
+}
+.info {
+    
+    color: #000000;
+    font-weight: bold;
+}
+
+.quote-display {
+    margin-bottom: 1rem;
+    margin-left: calc(-rem + 2px);
+    margin-right: calc(1rem + 2px);
+    font-size: 2rem;
+}
+.quote-input {
+    background-color: transparent;
+    border: 2px solid #6f751a;
+    outline: none;
+    width: 100%;
+    height: 8rems;
+    margin: auto;
+    resize: none;
+    padding: .5rem 1rem;
+    font-size: 2rem;
+    border-radius: .5rem;
+
+}
+.quote-input:focus {
+    border-color: black;
+}
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+    text-decoration: underline;
+}
+
+
