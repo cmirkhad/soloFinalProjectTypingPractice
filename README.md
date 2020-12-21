@@ -1,2 +1,2 @@
-# soloFinalProjectTypingPractice
+# Typing Practice
 Typing Practice
