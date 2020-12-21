@@ -6,8 +6,8 @@ First of all, it's required to create index.html and some basic structure inside
 Look at required scripts:
 ![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/img3.png)
 ### Body tag
-Inside body tag create div with class container. Container has areas for displaying some text and for typing. Below there's also space for some information. It's in div with id info.
-![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/img1.png)
+Inside body tag create div with class container. Container has areas for displaying some text and for typing. Below there's also space for some information. It's in div with id info.<br>
+![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/img1.png)<br>
 You see inside div info three divs with appropriate id. Divs for display and for typing are created the same. Autofocus on input textarea means when the page loads, it will be focus on the textarea.
 ### Navbar
 To create navbar I used the following code:
