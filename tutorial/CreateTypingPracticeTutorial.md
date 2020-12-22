@@ -30,7 +30,7 @@ When webpage has loaded, you will faced up with random text to type. In order to
 To generate absolute random text, I used API quote generator from http://api.quotable.io/random. Let's look at the parts of code which read API and extract content(text):
 <br>![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/declaringConsts.png)<br>
 <br>![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/getquotesimg.png)<br>
-In or<br>![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/getquotesimg.png)<br>der to display a quote in the browser, we put it in div with id quote-display. For that, we use the following code:
+In order to display a quote in the browser, we put it in div with id quote-display. For that, we use the following code:
 <br>![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/renderNewQuote.png)<br>
 Notice some jquery parts, it's for clearing up unnecessary texts for a next quote. wpm(words per min) and time should start from 0. Stop and start values are true in order to not start while user isn't beginning to type. When user starts typing, timer starts. For that I used jquery:
 <br>![alt text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/dontstartwhilenottyping.png)<br>
