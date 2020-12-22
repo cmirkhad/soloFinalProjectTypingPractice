@@ -9,7 +9,7 @@ On the NavBar there are another texts related to my university and texts with fu
 ## Look of the main page
 ![alt_text](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/Alatootextsonpage.png)
 ## Application
-[here](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/index.html)
+[here](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/main/index.html)
 <br>
 
 See also [Tutorial how to create this app](https://github.com/cmirkhad/soloFinalProjectTypingPractice/blob/main/tutorial/CreateTypingPracticeTutorial.md)
